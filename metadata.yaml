@@ -1,0 +1,39 @@
+_repo: The-Basket-of-Flowers_24160
+_version: 0.1.0
+alternative_title: Blumenkörbchen. English
+contributor:
+  illustrators:
+  - agent_name: Evans, W. E.
+    gutenberg_agent_id: '26283'
+    url: http://www.gutenberg.org/2009/agents/26283
+  - agent_name: Charlton, Watson
+    gutenberg_agent_id: '26282'
+    url: http://www.gutenberg.org/2009/agents/26282
+covers:
+- cover_type: archival
+  image_path: 24160-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schmid, Christoph von
+    alias: Von Schmid, Christoph
+    birthdate: 1768
+    deathdate: 1854
+    gutenberg_agent_id: '5355'
+    url: http://www.gutenberg.org/2009/agents/5355
+description: ''
+gutenberg_issued: '2008-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Children''s stories, German -- Translations into English'
+title: The Basket of Flowers
+url: http://www.gutenberg.org/ebooks/24160
