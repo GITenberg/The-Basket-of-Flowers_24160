@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '5355'
     url: http://www.gutenberg.org/2009/agents/5355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24160#The-Basket-of-Flowers
 gutenberg_issued: '2008-01-04'
 gutenberg_type: Text
 identifiers:
